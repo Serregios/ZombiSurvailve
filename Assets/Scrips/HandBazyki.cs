@@ -6,6 +6,10 @@ public class HandBazyki : MonoBehaviour
 {
     [SerializeField] private int damage = 5;
     [SerializeField] private Collider[] handBazyka;
+    void Start()
+    {
+         
+    }
 
     void Update()
     {
