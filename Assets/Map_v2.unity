@@ -21905,6 +21905,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -14.453295
       objectReference: {fileID: 0}
+    - target: {fileID: 3354749983423419787, guid: 1e62851b77ab1594d9ee0317f71d8ea5,
+        type: 3}
+      propertyPath: destroyTime
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 3357389917322960926, guid: 1e62851b77ab1594d9ee0317f71d8ea5,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -55677,6 +55682,6 @@ SceneRoots:
   - {fileID: 563543834}
   - {fileID: 699399928}
   - {fileID: 951439355}
-  - {fileID: 1996664643}
   - {fileID: 829904351}
+  - {fileID: 1996664643}
   - {fileID: 1943512218}
